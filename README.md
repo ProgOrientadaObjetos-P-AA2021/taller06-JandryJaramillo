@@ -1,7 +1,7 @@
 # Taller 6 (Laboratorio): 
 ### Elaboración de ejercicios de Estructuras de datos en Programación Orientada a Objetos: Estructuras estáticas.
 
-#### Problemática
+#### Problemática  //ARREGLOS CON OBJETOS
 
 Se requiere administrar hospitales del país. Por cada entidad hospitalaria se necesita algunos atributos tales como: nombre del hospital, ciudad del hospital, número de especialidades, conjunto de médicos, conjunto de enfermeros o enfermeras, total de sueldos a cancelar por mes del personal del hospital, dirección del hospital.
 
